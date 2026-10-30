@@ -1,0 +1,21 @@
+tests/test_daytona_sandbox.py
+  s_64736521a765f9::t_55483d34f6358c 56-59,62-63,66-70
+  s_64736521a765f9::t_b4e0043ba622c0 60-61,64-65
+  s_64736521a765f9::t_42b2ab916805ca 143-146,150-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cc94e8fd9680c24f4576e0d880ae700bdf909771",
+  "prompts": {},
+  "sessions": {
+    "s_64736521a765f9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_e94de83b8ffeNzSt60wVirglVS",
+        "model": "unknown"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
