@@ -1,0 +1,33 @@
+tinker_cookbook/sandbox/daytona_sandbox_test.py
+  s_64736521a765f9::t_8023c86c67aac1 2
+  s_64736521a765f9::t_f629d934391a85 3-8,14-15,21-62,64-66,68,71-77
+  s_64736521a765f9::t_644ff855831c44 63,67,69-70
+  s_64736521a765f9::t_a0976c082e2f1e 78
+tinker_cookbook/sandbox/daytona_sandbox.py
+  s_64736521a765f9::t_4cebde5a82db6a 101-102,109-113,115,117,120,122-126,128-130,134-143
+  s_64736521a765f9::t_78bebaa4f7cfaa 458-467
+  s_64736521a765f9::t_913340d08723b0 451-453
+  s_64736521a765f9::t_9c42e6ded30fa9 273
+  s_64736521a765f9::t_e8f8bbd5059d57 144-145
+tinker_cookbook/sandbox/README.md
+  s_64736521a765f9::t_caa8f5ef400ea0 91
+tests/test_daytona_sandbox.py
+  s_64736521a765f9::t_9177d5aeb9e274 184-201
+  s_64736521a765f9::t_91b4e211539717 183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "91580492f71627fc4db7eb043b8b740efb58091a",
+  "prompts": {},
+  "sessions": {
+    "s_64736521a765f9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_e94de83b8ffeNzSt60wVirglVS",
+        "model": "unknown"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
